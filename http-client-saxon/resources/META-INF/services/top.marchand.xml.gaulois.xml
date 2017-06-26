@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gaulois-services>
+  <saxon>
+    <extensions>
+      <function>org.expath.httpclient.saxon.SendRequestFunction</function>
+    </extensions>
+  </saxon>
+</gaulois-services>
