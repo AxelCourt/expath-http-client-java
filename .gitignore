@@ -7,9 +7,13 @@
 /http-client-java/nbproject/genfiles.properties
 /http-client-java/build/
 /http-client-java/dist/
+/http-client-java/target/
 /http-client-java/src/org/expath/httpclient/version.properties
 /http-client-saxon/nbproject/private/
 /http-client-saxon/nbproject/genfiles.properties
 /http-client-saxon/build/
 /http-client-saxon/dist/
+/http-client-saxon/target/
 /http-client-saxon/src/org/expath/httpclient/saxon/version.properties
+/target/
+/http-client-dist/target/
